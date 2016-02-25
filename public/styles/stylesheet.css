@@ -1,31 +1,64 @@
 body{
     background-image: url(https://upload.wikimedia.org/wikipedia/en/8/8c/The_Dresden_Files_2007_Intertitle.png);
+    background-repeat: no repeat;
+    background-size: 100%;
     color: #2e6da4;
     fill-opacity: .2;
 }
 
-header, footer{
+header, footer, main{
     color: #2e6da4;
     text-align: center;
 
+
 }
 header {
-    padding-top: 185px;
+    padding-top: 25px;
     text-shadow: 2px 2px #A7BCCA;
+    font-family: 'Merriweather', sans-serif;
+
+}
+h1 {
+    font-size: 64px;
+}
+a {
+    color: #000;
+    background-color: #A7BCCA;
+    font-size: 16px;
 }
 main {
     color: #f0ad4e;
     text-align: center;
+    font-family: 'Merriweather', serif;
+
 
 }
 
 footer{
-    color: #f0023c;
+    color: #A7BCCA;
     text-align: center;
-    font-size: 24px;
-    padding-top: 50px;
+    font-size: 36px;
+    padding-top: 150px;
+    font-family: 'Merriweather', sans-serif;
+    text-shadow: 2px 2px #ca0e26;
 }
+.harry {
+    height: 25%;
+    width: 25%;
+    border: solid 5px #000;
 
+
+}
+.karrin {
+    height: 25%;
+    width: 25%;
+    border: solid 5px #000;
+}
+.thomas {
+    height: 25%;
+    width: 25%;
+    border: solid 5px #000;
+}
 
 
 
