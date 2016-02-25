@@ -15,6 +15,10 @@ myApp.config(['$routeProvider', function($routeProvider) {
             templateUrl: '/views/templates/three.html',
             controller: 'ThirdController'
         })
+        .when('/four', {
+            templateUrl: '/views/templates/four.html',
+            controller: 'FourthController'
+        })
         .otherwise({
             redirectTo: 'home'
         });
