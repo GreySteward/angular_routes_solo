@@ -1,5 +1,5 @@
 myApp.controller('AnotherController', ['$scope', function($scope) {
-    $scope.message = 'Another Controller!';
+    $scope.message = 'Karrin Murphy';
 
     console.log('Another Controller');
 }]);

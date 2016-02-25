@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/8/8c/The_Dresden_Files_2007_Intertitle.png);
+    color: #2e6da4;
+    fill-opacity: .2;
+}
+
+header, footer, main {
+    color: #2e6da4;
+    text-align: center;
+
+}
+header {
+    padding-top: 200px;
+    text-shadow: 2px 2px #A7BCCA;
+}
+
+
+
+
+
