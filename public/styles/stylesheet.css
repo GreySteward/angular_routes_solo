@@ -4,14 +4,26 @@ body{
     fill-opacity: .2;
 }
 
-header, footer, main {
+header, footer{
     color: #2e6da4;
     text-align: center;
 
 }
 header {
-    padding-top: 200px;
+    padding-top: 185px;
     text-shadow: 2px 2px #A7BCCA;
+}
+main {
+    color: #a42d1b;
+    text-align: center;
+
+}
+
+footer{
+    color: #6b25a4;
+    text-align: center;
+    font-size: 24px;
+    padding-top: 25px;
 }
 
 
